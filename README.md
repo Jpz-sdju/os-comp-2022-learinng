@@ -6,8 +6,8 @@
 | 25                          | 26                          | 27                          | 28                          | 29                          | 30                          | 31                          |
 | deal with other things      | deal with other things      | deal with other things      | deal with other things      | [day08](./records/day08.md) | deal with other things      | deal with other things      |
 
-| 11.1                                      | 11.2                        | 11.3                        | 11.4                        | 11.5 | 11.6 | 11.7 |
-| ----------------------------------------- | --------------------------- | --------------------------- | --------------------------- | ---- | ---- | ---- |
-| 发现之前cl没了，重新做吧。[day10](./records/day10.md) | [day11](./records/day11.md) | [day12](./records/day12.md) | [day13](./records/day13.md) |      |      |      |
-|                                           |                             |                             |                             |      |      |      |
-|                                           |                             |                             |                             |      |      |      |
+| 11.1                                      | 11.2                        | 11.3                        | 11.4                        | 11.5                        | 11.6 | 11.7 |
+| ----------------------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | ---- | ---- |
+| 发现之前cl没了，重新做吧。[day10](./records/day10.md) | [day11](./records/day11.md) | [day12](./records/day12.md) | [day13](./records/day13.md) | [day14](./records/day14.md) |      |      |
+|                                           |                             |                             |                             |                             |      |      |
+|                                           |                             |                             |                             |                             |      |      |
