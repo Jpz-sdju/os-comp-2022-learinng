@@ -10,4 +10,4 @@
 | ----------------------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | 发现之前cl没了，重新做吧。[day10](./records/day10.md) | [day11](./records/day11.md) | [day12](./records/day12.md) | [day13](./records/day13.md) | [day14](./records/day14.md) | [day15](./records/day15.md) | [day16](./records/day16.md) |
 | 11.8                                      | 11.9                        | 11.10                       | 11.11                       | 11.12                       | 11.13                       | 11.14                       |
-| [day17](./records/day17.md)               |                             |                             |                             |                             |                             |                             |
+| [day17](./records/day17.md)               | deal with other things      | deal with other things      | deal with other things      | [day18](./records/day18.md) | [day19](./records/day19.md) |                             |
